@@ -20,6 +20,7 @@ Noriu stipriai patobūlėti, todėl rinkausi šį variantą.
 - Projektas suskirstitas į dalis: komponentai, konteineriai...
 - Modifikuota pagal poreikius tema
 - SPA puslapis veikia be puslapio refresh, visi įvykiai tame pačiame sąraše(kalendoriuje).
+- Specializuotas puslapis klientams ir kirpėjoms
 
 Logika sudėta container index.js failuose, nenorėjau hardkodinti bet ėjosi kaip ėjosi, reikia daugiau patirties (tikiuosi jeigu priimsite jos daugiau įgyti). Norėjau atlikus pakeitimus su rezervacijomis siųsti POST metodu, bet reikėjo tam šiek tiek pasižaisti su backend dalimi. 
 
