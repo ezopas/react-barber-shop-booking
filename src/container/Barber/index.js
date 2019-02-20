@@ -12,9 +12,10 @@ class Barber extends Component {
             header: {
                 left: 'prev,next today',
                 center: 'title',
-                right: 'agendaWeek,agendaDay'
+                right: 'agendaWeek,agendaDay,listWeek'
             },
             defaultView: 'agendaWeek',
+            defaultDate: '2019-03-04',
             slotDuration: '00:15:00',
             slotLabelFormat: 'HH:mm',
             weekends: false,
