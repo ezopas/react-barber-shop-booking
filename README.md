@@ -35,3 +35,5 @@ Turėtų veikti ant: [http://localhost:3000](http://localhost:3000) .
 Kas blogai veikia, nepabaigta:
 -Kartais klientų listas nėra korektiškai atvaizduojamas, reikia pakeisti dieną/savaitę, tada gryžus kalendoriuje rodo.
 Nežinau kodėl taip yra patebėjau gana vėlai, kai projektą po savaitgalio perkėliau į kitą kompiuterį. Norėčiau sutvarkyti, tačiau nebeturiu laiko... :(
+![screenshot](https://i.imgur.com/ctDms29.png)
+
