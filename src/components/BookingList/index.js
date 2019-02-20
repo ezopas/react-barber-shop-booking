@@ -6,6 +6,7 @@ import 'fullcalendar';
 import moment from 'moment';
 import swal from 'sweetalert';
 import './../../data/styles/slate.min.css';
+import './style.scss';
 
 import ReactDOM from 'react-dom';
 
