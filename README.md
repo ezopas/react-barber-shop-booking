@@ -22,7 +22,11 @@ Noriu stipriai patobūlėti, todėl rinkausi šį variantą.
 - Projektas suskirstitas į dalis: komponentai, konteineriai...
 - Modifikuota pagal poreikius tema
 - SPA puslapis veikia be puslapio refresh, visi įvykiai tame pačiame sąraše(kalendoriuje).
+- Galimos peržiūros: sąrašas, savaitės vaizdas, dienos vaizdas.
 - Specializuotas puslapis klientams ir kirpėjoms
+- Klientas gali matyti laikus, tik vieną kartą įvesti savo rezervacija, po to ją ištrinti jei nori.
+- Kirpėja gali keisti rezervazijų laikus, trinti, pridėti, mato klientų vardus.
+
 
 Logika sudėta container index.js failuose, nenorėjau hardkodinti bet ėjosi kaip ėjosi, reikia daugiau patirties (tikiuosi jeigu priimsite jos daugiau įgyti). Norėjau atlikus pakeitimus su rezervacijomis siųsti POST metodu, bet reikėjo tam šiek tiek pasižaisti su backend dalimi. 
 
