@@ -5,6 +5,8 @@ NFQ akademijos antroji užduotis
 ### `npm install`
 ### `npm start`
 
+Pasirinkti vasario paskutinę savaitę, kad matyti įrašus.
+
 Nors suprantu PHP ir OOP, galėjau rinktis man lengvesnį pirmą variantą, Šią (antrą) užduotį pasirinkau todėl, nes ji man sunkesnė ir galėjau ją atlikti su kitomis technologijomis negu pratęs darbuotis (nesenai pradėjau plačiau domėtis JS technologjijomis).
 Pradžioje planavau kurti savo logiką šiam projektui ir jeigu reiks panaudoti axios ar redux, nes norėjau pasirodyti, kad gebu kažkiek savo logika daryti nevien pavyzdžiais, tačiau tas užėmė per daug laiko ir pradėjau darbuotis su kalendoriaus package'u, tikiuosi už tai stirpriai nebausite.
 
