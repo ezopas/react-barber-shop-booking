@@ -1,6 +1,6 @@
 NFQ akademijos antroji užduotis
 
-## Projekto paleidimas
+## Projekto paleidimas (vatotojo vadovas žemiau)
 
 ### `npm install`
 ### `npm start`
@@ -36,8 +36,20 @@ Puslapiai:
 
 Turėtų veikti ant: [http://localhost:3000](http://localhost:3000) .
 
-Kas blogai veikia, nepabaigta:
+*Kas blogai veikia, nepabaigta:
 -Kartais klientų listas nėra korektiškai atvaizduojamas, reikia pakeisti dieną/savaitę, tada gryžus kalendoriuje rodo.
 Nežinau kodėl taip yra patebėjau gana vėlai, kai projektą po savaitgalio perkėliau į kitą kompiuterį. Norėčiau sutvarkyti, tačiau nebeturiu laiko... :(
 ![screenshot](https://i.imgur.com/ctDms29.png)
 
+## Vartotojo vadovas
+Klientas:
+1. Klientas nueina iki kalendoriaus (tai gali padaryti paspaudęs 'book now' arba nuslinkęs žemyn)
+2. Klientas turi nuspręsti kokią dieną jis nori rezervuotis ir ją pairinkti
+3. Klientas matydamas tos dienos laisvą laiką spaudžia ant laisvo ploto
+4. Klientas užpildo savo vardą ir pavardę
+5. Jeigu klientas suklydo arba persigalvojo, gali įrašą ištrinti ir rezervuotis iš naujo.
+
+Kirpėja
+1. Kirpėja nueina į jai skirtą puslapį (/barber)
+2. Pasirenka jai aktualias datas peržiūrai:savaitė, diena, sąrašas. (Šiuo atvėju vasario paskutinė savaitė)
+3. Jeigu nori ištrinti įrašą spaudžia X. Jei nori įterpti spaudžia ant laisvo ploto ir įveda kliento duomenis. Jei nori pakeisti laiką perkelia rezervaciją į kitą laukelį.
