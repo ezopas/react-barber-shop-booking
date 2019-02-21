@@ -47,7 +47,7 @@ Klientas:
 2. Klientas turi nuspręsti kokią dieną jis nori rezervuotis ir ją pairinkti
 3. Klientas matydamas tos dienos laisvą laiką spaudžia ant laisvo ploto
 4. Klientas užpildo savo vardą ir pavardę
-5. Jeigu klientas suklydo arba persigalvojo, gali įrašą ištrinti ir rezervuotis iš naujo.
+5. Jeigu klientas suklydo arba persigalvojo, gali įrašą ištrinti ir rezervuotis iš naujo.*
 
 Kirpėja
 1. Kirpėja nueina į jai skirtą puslapį (/barber)
