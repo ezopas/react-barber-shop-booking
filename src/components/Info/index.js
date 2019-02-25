@@ -33,11 +33,11 @@ const Info = ({}) =>{
                     </div>
                     <div className="social pl-md-5 p-4">
                         <ul className="social-icon">
-                            <li className="ftco-animate"><a href="#"><span className="icon-twitter"></span></a>
+                            <li className="ftco-animate"><a href=""><span className="icon-twitter"></span></a>
                             </li>
-                            <li className="ftco-animate"><a href="#"><span className="icon-facebook"></span></a>
+                            <li className="ftco-animate"><a href=""><span className="icon-facebook"></span></a>
                             </li>
-                            <li className="ftco-animate"><a href="#"><span className="icon-instagram"></span></a></li>
+                            <li className="ftco-animate"><a href=""><span className="icon-instagram"></span></a></li>
                         </ul>
                     </div>
                 </div>
