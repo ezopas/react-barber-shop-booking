@@ -22,6 +22,11 @@ class App extends Component {
         })
     }
 
+    NoMatch = ({ location }) => (
+        <div className='p404'>
+            <h3>No match for <code>{location.pathname}</code></h3>
+        </div>
+    );
 
     render() {
     return (
@@ -31,6 +36,7 @@ class App extends Component {
             <div>
                 <Route exact path='/' component={Index}/>
                 <Route exact path='/barber' component={Barber}/>
+                <Route component={this.NoMatch} />
             </div>
         </BrowserRouter>
         <Footer/>
