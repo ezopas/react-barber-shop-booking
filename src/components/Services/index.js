@@ -98,62 +98,62 @@ const Services = ({}) =>{
                     <div className="row no-gutters d-flex">
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img work1"></a>
+                                <a href="" className="img work1"></a>
                                 <div className="text p-4">
                                     <h3>Hair Style </h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img work2"></a>
+                                <a href="" className="img work2"></a>
                                 <div className="text p-4">
                                     <h3>Trimming</h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img work3"></a>
+                                <a href="" className="img work3"></a>
                                 <div className="text p-4">
                                     <h3>Traditional Haircuts Mens </h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
 
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img order-md-last work4"></a>
+                                <a href="" className="img order-md-last work4"></a>
                                 <div className="text p-4">
                                     <h3>Hair Style for Womens</h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia </p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img order-md-last work5"></a>
+                                <a href="" className="img order-md-last work5"></a>
                                 <div className="text p-4">
                                     <h3>Trimming </h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
                         <div className="col-md-4 d-flex">
                             <div className="services-wrap d-flex">
-                                <a href="#" className="img order-md-last work6"></a>
+                                <a href="" className="img order-md-last work6"></a>
                                 <div className="text p-4">
                                     <h3>Traditional Haircuts Mens </h3>
                                     <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                                    <span><a href="#">Read more</a></span>
+                                    <span><a href="">Read more</a></span>
                                 </div>
                             </div>
                         </div>
