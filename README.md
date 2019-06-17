@@ -1,5 +1,3 @@
-NFQ akademijos antroji užduotis
-
 ## Projekto paleidimas (vatotojo vadovas žemiau)
 
 ### `npm install`
